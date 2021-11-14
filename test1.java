@@ -25,3 +25,6 @@ public class test1{
                 "El sistema operativo que utiliza " + os );
     }
 }
+
+
+
